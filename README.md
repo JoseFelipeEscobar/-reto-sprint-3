@@ -1,7 +1,7 @@
 # pryecto_sprint3
 *JOSE FELIPE ESCOBAR BALLESTA*
-# 🆘⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️🆘
-## **Problema con ejecucion del test, la instalacion de npm y las dependenias usadas son de hace un mes en el package.json yo instalo npm y luego intento ejecutar el run test pero genera un error, y no deja ejecutar el test, hice los cambios respectivos como en el tutorial y no altere ningun archivo adicional**
+### 🆘⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️🆘
+### **Problema con ejecucion del test, la instalacion de npm y las dependenias usadas son de hace un mes en el package.json yo instalo npm y luego intento ejecutar el run test pero genera un error, y no deja ejecutar el test, hice los cambios respectivos como en el tutorial y no altere ningun archivo adicional**
 
 
 ----------
